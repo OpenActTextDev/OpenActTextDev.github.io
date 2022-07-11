@@ -1,4 +1,4 @@
-# Open Actuarial Textbooks Project: Development Site {Development Site}
+### Open Actuarial Textbooks Project: Development Site
 
 This site is for teachers, authors, and others who seek to contribute to the development of free and open actuarial textbooks.
 
@@ -32,9 +32,11 @@ Work has begun in 2022 to develop a second edition of *Loss Data Analytics* (LDA
 *  Prospective contributors should start with our [Style Guide](https://OpenActTextDev.github.io/StyleGuideLDA/index.html) 
 *  [This repository](https://OpenActTextDev.github.io/InteractiveLDA/index.html) describes the interactive features being contemplated for *Loss Data Analytics*.
 
-## Life Contingencies / Actuarial Mathematics
+## Life Contingencies
 
-The initial focus of the project is on *Loss Data Analytics* although we hope to expand to other actuarial texts. In that spirit, we organize several sets of notes for *Life Contingencies*, also known as *Actuarial Mathematics* and *Long Term Actuarial Mathematics*. See the development [GitHub Site](https://github.com/ewfrees/LifeCon).
+The initial focus of the project is on *Loss Data Analytics* although we hope to expand to other actuarial texts. In that spirit, a small group has started work on another core discipline within actuarial science. The tentative title is [Life Contingencies: The Mathematics, Statistics, and Economics of Life Insurance](https://openacttextdev.github.io/LifeCon/).  See the development [GitHub Site](https://github.com/openacttextdev/LifeCon).
+
+***
 
 # Other Efforts 
 
