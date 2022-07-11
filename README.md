@@ -1,4 +1,4 @@
-# Open Actuarial Textbooks Project: Development Site
+# (Open Actuarial Textbooks Project: Development Site)[Development Site]
 
 This site is for teachers, authors, and others who seek to contribute to the development of free and open actuarial textbooks.
 
