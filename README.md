@@ -22,17 +22,17 @@ The [Open Actuarial Textbooks Landing Page](https://OpenActTexts.github.io/) pro
 
 We are currently working on three projects to support open actuarial education: (1) a short course featuring **R** code tutorials to support *Loss Data Analytics*, (2) a second edition of *Loss Data Analytics*, and (3) a new book on life contingent mathematics.
 
-You can learn more about the [Short Course](https://openacttexts.github.io/LDACourse1/) at our [Short Course Development Strategy](https://openacttextdev.github.io/LDAShortCourseStrategy/index.html)
+Visit the [Short Course](https://openacttexts.github.io/LDACourse1/); you can see how it came about at our [Short Course Development Strategy](https://openacttextdev.github.io/LDAShortCourseStrategy/index.html).
 
 ## Loss Data Analytics - Edition Two
 
 Work has begun in 2022 to develop a second edition of *Loss Data Analytics* (LDA). 
 
 *  A **Steering Committee** has assembled a set of [Guiding Principles](https://openacttextdev.github.io/LDA_Ed2_Strategy/) to be used to direct the development of the second edition.
+*  Prospective contributors should start with our [Style Guide](https://ewfrees.github.io/StyleGuideLDA/index.html) 
+*  [This repository][(https://OpenActTextDev.github.io/InteractiveLDA/index.html](https://openacttextdev.github.io/InteractiveFeatures/)) describes the interactive features being contemplated for *Loss Data Analytics*.
 *  The most recent version of the book is available at [online version](https://OpenActTextDev.github.io/LDA_Ed2/index.html) in *.html* format.
-*  The source code is available at our [GitHub site](https://github.com/OpenActTextDev/LDA_Ed2).
-*  Prospective contributors should start with our [Style Guide](https://OpenActTextDev.github.io/StyleGuideLDA/index.html) 
-*  [This repository](https://OpenActTextDev.github.io/InteractiveLDA/index.html) describes the interactive features being contemplated for *Loss Data Analytics*.
+*  The source code is available at our [GitHub site](https://github.com/OpenActTextDev/LDA_Ed2).  
 
 ## Life Contingencies
 
