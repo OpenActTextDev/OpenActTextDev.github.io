@@ -30,7 +30,7 @@ Work has begun in 2022 to develop a second edition of *Loss Data Analytics* (LDA
 
 *  A **Steering Committee** has assembled a set of [Guiding Principles](https://openacttextdev.github.io/LDA_Ed2_Strategy/) to be used to direct the development of the second edition.
 *  Prospective contributors should start with our [Style Guide](https://ewfrees.github.io/StyleGuideLDA/index.html) 
-*  [This repository](https://OpenActTextDev.github.io/InteractiveLDA/index.html](https://openacttextdev.github.io/InteractiveFeatures/) describes the interactive features being contemplated for *Loss Data Analytics*.
+*  [This repository](https://OpenActTextDev.github.io/InteractiveLDA/index.html) describes the interactive features being contemplated for *Loss Data Analytics*.
 *  The most recent version of the book is available at [online version](https://OpenActTextDev.github.io/LDA_Ed2/index.html) in *.html* format.
 *  The source code is available at our [GitHub site](https://github.com/OpenActTextDev/LDA_Ed2).  
 
@@ -63,5 +63,5 @@ We are also experimenting with a [WordPress site](http://www.ssc.wisc.edu/~jfree
 ***
 
 # Your Help
-As described in our [License](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. Especially at this early stage of the project, if you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>.
+As described in our [License](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. If you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>.
 
