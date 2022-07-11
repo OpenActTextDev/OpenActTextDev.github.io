@@ -30,8 +30,8 @@ Work has begun in 2022 to develop a second edition of *Loss Data Analytics* (LDA
 
 *  A **Steering Committee** has assembled a set of [Guiding Principles](https://openacttextdev.github.io/LDA_Ed2_Strategy/) to be used to direct the development of the second edition.
 *  Prospective contributors should start with our [Style Guide](https://ewfrees.github.io/StyleGuideLDA/index.html) 
-*  [This repository](https://OpenActTextDev.github.io/InteractiveLDA/index.html) describes the interactive features being contemplated for *Loss Data Analytics*.
-*  The most recent version of the book is available at [online version](https://OpenActTextDev.github.io/LDA_Ed2/index.html) in *.html* format.
+*  [This repository](https://OpenActTextDev.github.io/InteractiveFeatures/) describes the interactive features being contemplated for *Loss Data Analytics*.
+*  The most recent version of the second edition is available at [online version](https://OpenActTextDev.github.io/LDA_Ed2/index.html) in *.html* format.
 *  The source code is available at our [GitHub site](https://github.com/OpenActTextDev/LDA_Ed2).  
 
 ## Life Contingencies
