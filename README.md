@@ -30,13 +30,16 @@ Work has begun in 2022 to develop a second edition of *Loss Data Analytics* (LDA
 
 *  A **Steering Committee** has assembled a set of [Guiding Principles](https://openacttextdev.github.io/LDA_Ed2_Strategy/) to be used to direct the development of the second edition.
 *  Prospective contributors should start with our [Style Guide](https://ewfrees.github.io/StyleGuideLDA/index.html) 
-*  [This repository][(https://OpenActTextDev.github.io/InteractiveLDA/index.html](https://openacttextdev.github.io/InteractiveFeatures/)) describes the interactive features being contemplated for *Loss Data Analytics*.
+*  [This repository](https://OpenActTextDev.github.io/InteractiveLDA/index.html](https://openacttextdev.github.io/InteractiveFeatures/) describes the interactive features being contemplated for *Loss Data Analytics*.
 *  The most recent version of the book is available at [online version](https://OpenActTextDev.github.io/LDA_Ed2/index.html) in *.html* format.
 *  The source code is available at our [GitHub site](https://github.com/OpenActTextDev/LDA_Ed2).  
 
 ## Life Contingencies
 
-The initial focus of the project is on *Loss Data Analytics* although we hope to expand to other actuarial texts. In that spirit, a small group has started work on another core discipline within actuarial science. The tentative title is [Life Contingencies: The Mathematics, Statistics, and Economics of Life Insurance](https://openacttextdev.github.io/LifeCon/).  See the development [GitHub Site](https://github.com/openacttextdev/LifeCon).
+The initial focus of the project is on *Loss Data Analytics* although we hope to expand to other actuarial texts. In that spirit, a small group has started work on another core discipline within actuarial science. 
+
+*  The tentative title is [Life Contingencies: The Mathematics, Statistics, and Economics of Life Insurance](https://openacttextdev.github.io/LifeCon/); this provides an initial draft of the text. 
+*  See the development [GitHub Site](https://github.com/openacttextdev/LifeCon) for the underpinning code.
 
 ***
 
@@ -44,9 +47,7 @@ The initial focus of the project is on *Loss Data Analytics* although we hope to
 
 ### R Codes for Loss Data Analytics
 
-This site provides files that generate *R* codes to support the online text **Loss Data Analytics**. To get an idea of what the files will generate for users, see the [Online Version from R Code Support](https://ewfrees.github.io/LDARcode/index.html).
-
-Source code is available at our [GitHub site](https://github.com/OpenActTextDev/LDARCode).
+This site provides files that generate *R* codes to support the online text **Loss Data Analytics**. To get an idea of what the files will generate for users, see the [Online Version from R Code Support](https://ewfrees.github.io/LDARcode/index.html). Source code is available at our [GitHub site](https://github.com/ewfrees/LDARCode).
 
 ### Overheads for Loss Data Analytics
 
@@ -54,7 +55,6 @@ This site provides chapter summaries in the form of overheads to support the onl
 
 ### Translation Demonstration
 
-*  Several chapters have been [translated into Spanish](https://ewfrees.github.io/Loss-Data-Analytics-Spanish/) and more are forthcoming.
 * Here is a [version of the book](https://alyaanuval.github.io/LDATranslate/C-Intro.html#S:Intro) where we translated a section from English to Malay. 
 * The instructions for doing the translation are at a [repository on GitHub](https://github.com/alyaanuval/LDATranslate). 
 
