@@ -10,11 +10,13 @@ The goal is to have the actuarial community author our textbooks in a collaborat
 
 The first edition of *Loss Data Analytics*, an interactive, online, freely available text, was completed in 2018.
 
-* The [online version](https://OpenActTextDev.github.io/Loss-Data-Analytics/index.html) contains many interactive objects (quizzes, computer demonstrations, interactive graphs, and the like) to promote deeper learning.
-* A subset of the book is available for [offline reading](https://ewfrees.github.io/Loss-Data-Analytics/DownloadOffline.html) in pdf and EPUB formats.
-* The online text has been [translated into Spanish](https://openacttexts.github.io/LDASpanish/) to promote access to a worldwide audience.
+* The [online version](https://OpenActTexts.github.io/Loss-Data-Analytics/index.html) contains many interactive objects (quizzes, computer demonstrations, interactive graphs, and the like) to promote deeper learning.
+* A subset of the book is available for [offline reading](https://ewfrees.github.io/Loss-Data-Analytics-Ed1/DownloadOffline.html) in pdf and EPUB formats.
+* The online text has been [translated into Spanish](https://OpenActTexts.github.io/LDASpanish/) to promote access to a worldwide audience.
 
-The [Open Actuarial Textbooks Landing Page](https://openacttexts.github.io/) provides access to resources supporting the first edition. 
+The [Open Actuarial Textbooks Landing Page](https://OpenActTexts.github.io/) provides access to resources supporting the first edition. 
+
+***
 
 # Development Site
 
@@ -58,6 +60,7 @@ This site provides chapter summaries in the form of overheads to support the onl
 
 We are also experimenting with a [WordPress site](http://www.ssc.wisc.edu/~jfrees/loss-data-analytics/).
 
+***
 
 # Your Help
 As described in our [License](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. Especially at this early stage of the project, if you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>.
