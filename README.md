@@ -1,16 +1,26 @@
-## Open Actuarial Textbooks Project Goal
-The goal is to have the actuarial community author our textbooks in a collaborative fashion. *GitHub* provides a natural development environment to achieve this goal. See the [Open Actuarial Textbooks Project Site](https://sites.google.com/a/wisc.edu/loss-data-analytics/) for more information about this project.
+# Open Actuarial Textbooks Project: Development Site
 
-# Development Site
+This site is for teachers, authors, and others who seek to contribute to the development of free and open actuarial textbooks.
 
-This is the landing page where you can access recent developments in the *Loss Data Analytics* texts. A more stable version, that is being updated less frequently, is available at our 'production' [Open Actuarial Textbooks Landing Site](https://openacttexts.github.io/). You can also access pdf and epub (current and older) versions of the text in our [Offline versions of the text](https://ewfrees.github.io/Loss-Data-Analytics/DownloadOffline.html).
+## Project Goal
 
-# Loss Data Analytics
+The goal is to have the actuarial community author our textbooks in a collaborative fashion. If this is your first visit to this site, you may wish to get additional background information about the project and its relationship to open education. See the [Open Actuarial Textbooks Project Site](https://sites.google.com/a/wisc.edu/loss-data-analytics/) for more information about the project.
 
-**Book Description** - *Loss Data Analytics* will be an interactive, online, freely available text.
-* The online version will contain many interactive objects (quizzes, computer demonstrations, interactive graphs, video, and the like) to promote deeper learning.
-* A subset of the book will be available for offline reading in pdf and EPUB formats.
-* The online text will be available in multiple languages to promote access to a worldwide audience.
+# Loss Data Analytics - Edition One
+
+The first edition of *Loss Data Analytics*, an interactive, online, freely available text, was completed in 2018.
+
+* The [online version](https://OpenActTextDev.github.io/Loss-Data-Analytics/index.html) contains many interactive objects (quizzes, computer demonstrations, interactive graphs, and the like) to promote deeper learning.
+* A subset of the book is available for [offline reading](https://ewfrees.github.io/Loss-Data-Analytics/DownloadOffline.html) in pdf and EPUB formats.
+* The online text has been translated into Spanish to promote access to a worldwide audience.
+
+The [Open Actuarial Textbooks Landing Page](https://openacttexts.github.io/) provides access to resources supporting the first edition. 
+
+## Development Site
+
+
+
+This is the landing page where you can access recent developments in the *Loss Data Analytics* texts. 
 
 The most recent version of the book is available at 
 * View the [online version](https://OpenActTextDev.github.io/Loss-Data-Analytics/index.html) in *.html* format - this is the **interactive** version.
