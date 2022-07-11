@@ -63,5 +63,10 @@ We are also experimenting with a [WordPress site](http://www.ssc.wisc.edu/~jfree
 ***
 
 # Your Help
-As described in our [License](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. If you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>.
+As described in our [License](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. If you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>. Much of our efforts are currently being organized the umbrella of the [Astin Academy](https://www.actuaries.org/IAA/IAA/Sections/ASTIN_NEW/Our_Activities.aspx?WebsiteKey=ff59269c-4928-4369-a169-03e74a6bd8ca&hkey=b94800cc-f36d-4bb0-a49c-0d0b1d761d7f&New_ContentCollectionOrganizerCommon=8#New_ContentCollectionOrganizerCommon).
+
+**Mission of ASTIN Academy**
+
+*The mission of the ASTIN Academy is to provide high quality free educational materials in non-life insurance to actuarial students across the world. The Academy is committed to open course development under Creative Commons license and seeks innovation in teaching methodologies and application of technology. Let’s build the future of actuarial education together.*
+
 
