@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Open Actuarial Textbooks Project Goal
+The goal is to have the actuarial community author our textbooks in a collaborative fashion. *GitHub* provides a natural development environment to achieve this goal. See the [Open Actuarial Textbooks Project Site](https://sites.google.com/a/wisc.edu/loss-data-analytics/) for more information about this project.
 
-You can use the [editor on GitHub](https://github.com/OpenActTextDev/OpenActTextDev.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Development Site
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the landing page where you can access recent developments in the *Loss Data Analytics* texts. A more stable version, that is being updated less frequently, is available at our 'production' [Open Actuarial Textbooks Landing Site](https://openacttexts.github.io/). You can also access pdf and epub (current and older) versions of the text in our [Offline versions of the text](https://ewfrees.github.io/Loss-Data-Analytics/DownloadOffline.html).
 
-### Markdown
+# Loss Data Analytics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Book Description** - *Loss Data Analytics* will be an interactive, online, freely available text.
+* The online version will contain many interactive objects (quizzes, computer demonstrations, interactive graphs, video, and the like) to promote deeper learning.
+* A subset of the book will be available for offline reading in pdf and EPUB formats.
+* The online text will be available in multiple languages to promote access to a worldwide audience.
 
-```markdown
-Syntax highlighted code block
+The most recent version of the book is available at 
+* View the [online version](https://OpenActTextDev.github.io/Loss-Data-Analytics/index.html) in *.html* format - this is the **interactive** version.
 
-# Header 1
-## Header 2
-### Header 3
+Source code is available at our [GitHub site](https://github.com/OpenActTextDev/LDA_Ed2).
 
-- Bulleted
-- List
+Prospective contributors should also check out our [Style Guide](https://ewfrees.github.io/StyleGuideLDA/index.html) 
 
-1. Numbered
-2. List
+We are also experimenting with a [WordPress site](http://www.ssc.wisc.edu/~jfrees/loss-data-analytics/).
 
-**Bold** and _Italic_ and `Code` text
+# R Codes for Loss Data Analytics
 
-[Link](url) and ![Image](src)
-```
+This site provides files that generate *R* codes to support the online text **Loss Data Analytics**. To get an idea of what the files will generate for users, see the [Online Version from R Code Support](https://ewfrees.github.io/LDARcode/index.html).
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Source code is available at our [GitHub site](https://github.com/OpenActTextDev/LDARCode).
 
-### Jekyll Themes
+# Interactive Features of Loss Data Analytics
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OpenActTextDev/OpenActTextDev.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[This repository](https://OpenActTextDevwfrees.github.io/InteractiveLDA/index.html) describes the interactive features being developed for *Loss Data Analytics*.
 
-### Support or Contact
+# Overheads for Loss Data Analytics
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This site provides chapter summaries in the form of overheads to support the online text **Loss Data Analytics**. Overheads in .pdf format and source code is available at a development [GitHub site](https://github.com/ewfrees/LossDataAnalyticsOverheads).
+
+# Translation Demonstration
+
+*  Several chapters have been [translated into Spanish](https://ewfrees.github.io/Loss-Data-Analytics-Spanish/) and more are forthcoming.
+* Here is a [version of the book](https://alyaanuval.github.io/LDATranslate/C-Intro.html#S:Intro) where we translated a section from English to Malay. 
+* The instructions for doing the translation are at a [repository on GitHub](https://github.com/alyaanuval/LDATranslate). 
+
+# Life Contingencies / Actuarial Mathematics
+
+The initial focus of the project is on *Loss Data Analytics* although we hope to expand to other actuarial texts. In that spirit, we organize several sets of notes for *Life Contingencies*, also known as *Actuarial Mathematics* and *Long Term Actuarial Mathematics*. See the development [GitHub Site](https://github.com/ewfrees/LifeCon).
+
+## Your Help
+As described in our [License](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. Especially at this early stage of the project, if you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>.
+
