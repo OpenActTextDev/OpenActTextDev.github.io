@@ -16,6 +16,9 @@ The first edition of *Loss Data Analytics*, an interactive, online, freely avail
 
 The [Open Actuarial Textbooks Landing Page](https://OpenActTexts.github.io/) provides access to resources supporting the first edition. 
 
+### Usage Data
+For the book, and many of the supporting projects, we now provide [Google Analytics Usage Data](https://ewfrees.github.io/Loss-Data-Analytics-Ed1/GoogleAnalyticsUsage.html). These statistics help to demonstrate the impact of this project on actuarial education.
+
 ***
 
 # Development Site
